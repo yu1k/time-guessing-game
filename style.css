@@ -1,0 +1,10 @@
+body {
+    font-family: 'Hiragino Kaku Gothic Std';
+    background-color: #E0FFFF;
+    word-break: break-all;
+    text-align: center;
+}
+
+.char {
+    margin: 250px 100px;
+}
